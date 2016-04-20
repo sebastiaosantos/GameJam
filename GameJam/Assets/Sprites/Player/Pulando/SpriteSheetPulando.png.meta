@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: adebd18646c83df4b83e3bb7318fc584
-timeCreated: 1461085758
+guid: 1c7018d176030814a85070417a93ed61
+timeCreated: 1461119017
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -57,7 +57,7 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 1024
+  maxTextureSize: 2048
   textureSettings:
     filterMode: -1
     aniso: 16
@@ -83,642 +83,650 @@ TextureImporter:
     - name: SpriteSheetPulando_0
       rect:
         serializedVersion: 2
-        x: 35
-        y: 444
-        width: 58
-        height: 112
+        x: 33
+        y: 1050
+        width: 101
+        height: 192
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 112}
-        - {x: -29, y: 94}
-        - {x: -29, y: 0}
-        - {x: 22, y: 0}
-        - {x: 29, y: 10}
-        - {x: 29, y: 62}
-        - {x: 13, y: 112}
+      - - {x: -49.5, y: 134}
+        - {x: -50.5, y: 132}
+        - {x: -50.5, y: 93}
+        - {x: -36.5, y: 61}
+        - {x: -28.5, y: 69}
+        - {x: -24.5, y: 75}
+        - {x: -41.5, y: 11}
+        - {x: -42.5, y: 0}
+        - {x: 22.5, y: 0}
+        - {x: 50.5, y: 22}
+        - {x: 50.5, y: 140}
+        - {x: 7.5, y: 192}
+        - {x: -20.5, y: 192}
+        - {x: -30.5, y: 174}
     - name: SpriteSheetPulando_1
       rect:
         serializedVersion: 2
-        x: 124
-        y: 444
-        width: 62
-        height: 112
+        x: 169
+        y: 1050
+        width: 106
+        height: 192
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 31, y: 64}
-        - {x: 13, y: 110}
-        - {x: 10, y: 112}
-        - {x: -18, y: 112}
-        - {x: -31, y: 89}
-        - {x: -31, y: 20}
-        - {x: -25, y: 2}
-        - {x: -20, y: 0}
-        - {x: -6, y: 0}
-        - {x: -6, y: 1}
-        - {x: 8, y: 18}
-        - {x: 31, y: 36}
+      - - {x: 15, y: 181}
+        - {x: 6, y: 192}
+        - {x: -19, y: 192}
+        - {x: -53, y: 150}
+        - {x: -53, y: 56}
+        - {x: -39, y: 0}
+        - {x: -7, y: 0}
+        - {x: 46, y: 67}
+        - {x: 53, y: 77}
+        - {x: 53, y: 124}
     - name: SpriteSheetPulando_2
       rect:
         serializedVersion: 2
-        x: 217
-        y: 445
-        width: 64
-        height: 111
+        x: 294
+        y: 1050
+        width: 111
+        height: 191
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -28, y: 111}
-        - {x: -32, y: 98}
-        - {x: -32, y: 10}
-        - {x: -22, y: 0}
-        - {x: 8, y: 0}
-        - {x: 32, y: 40}
-        - {x: 32, y: 90}
-        - {x: 15, y: 111}
+      - - {x: 5.5, y: 191}
+        - {x: -17.5, y: 191}
+        - {x: -24.5, y: 188}
+        - {x: -55.5, y: 145}
+        - {x: -55.5, y: 73}
+        - {x: -40.5, y: 6}
+        - {x: -34.5, y: 0}
+        - {x: 25.5, y: 0}
+        - {x: 55.5, y: 34}
+        - {x: 55.5, y: 116}
+        - {x: 14.5, y: 180}
     - name: SpriteSheetPulando_3
       rect:
         serializedVersion: 2
-        x: 312
-        y: 444
-        width: 67
-        height: 110
+        x: 440
+        y: 1050
+        width: 116
+        height: 189
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 6.5, y: 110}
-        - {x: -12.5, y: 110}
-        - {x: -22.5, y: 107}
-        - {x: -33.5, y: 79}
-        - {x: -33.5, y: 7}
-        - {x: -19.5, y: 0}
-        - {x: -8.5, y: 0}
-        - {x: 20.5, y: 10}
-        - {x: 33.5, y: 40}
-        - {x: 33.5, y: 62}
+      - - {x: -30, y: 189}
+        - {x: -58, y: 143}
+        - {x: -58, y: 74}
+        - {x: -51, y: 65}
+        - {x: -47, y: 68}
+        - {x: -39, y: 73}
+        - {x: -40, y: 85}
+        - {x: -22, y: 52}
+        - {x: -41, y: 6}
+        - {x: -31, y: 0}
+        - {x: -5, y: 0}
+        - {x: 58, y: 53}
+        - {x: 58, y: 140}
+        - {x: 42, y: 189}
     - name: SpriteSheetPulando_4
       rect:
         serializedVersion: 2
-        x: 407
-        y: 446
-        width: 70
-        height: 109
+        x: 591
+        y: 1050
+        width: 121
+        height: 187
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 35, y: 42}
-        - {x: 35, y: 76}
-        - {x: 22, y: 109}
-        - {x: -27, y: 109}
-        - {x: -35, y: 82}
-        - {x: -35, y: 11}
-        - {x: -30, y: 0}
-        - {x: -7, y: 0}
-        - {x: 15, y: 32}
-        - {x: 15, y: 43}
-        - {x: 11, y: 47}
+      - - {x: -56.5, y: 187}
+        - {x: -60.5, y: 167}
+        - {x: -60.5, y: 36}
+        - {x: -34.5, y: 0}
+        - {x: -15.5, y: 0}
+        - {x: 60.5, y: 54}
+        - {x: 60.5, y: 151}
+        - {x: 47.5, y: 187}
     - name: SpriteSheetPulando_5
       rect:
         serializedVersion: 2
-        x: 505
-        y: 449
-        width: 73
-        height: 107
+        x: 747
+        y: 1053
+        width: 126
+        height: 185
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 5.5, y: 107}
-        - {x: -14.5, y: 107}
-        - {x: -36.5, y: 77}
-        - {x: -36.5, y: 38}
-        - {x: -31.5, y: 36}
-        - {x: -27.5, y: 40}
-        - {x: -26.5, y: 0}
-        - {x: -3.5, y: 0}
-        - {x: 36.5, y: 42}
-        - {x: 36.5, y: 84}
-        - {x: 12.5, y: 103}
+      - - {x: -25, y: 185}
+        - {x: -63, y: 153}
+        - {x: -63, y: 25}
+        - {x: -57, y: 0}
+        - {x: -5, y: 0}
+        - {x: 63, y: 56}
+        - {x: 63, y: 142}
+        - {x: 28, y: 185}
     - name: SpriteSheetPulando_6
       rect:
         serializedVersion: 2
-        x: 606
-        y: 444
-        width: 76
-        height: 105
+        x: 33
+        y: 836
+        width: 132
+        height: 181
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 38, y: 77}
-        - {x: 28, y: 105}
-        - {x: -29, y: 105}
-        - {x: -38, y: 84}
-        - {x: -38, y: 11}
-        - {x: -26, y: 0}
+      - - {x: -29, y: 181}
+        - {x: -66, y: 125}
+        - {x: -66, y: 57}
+        - {x: -49, y: 0}
         - {x: -3, y: 0}
-        - {x: 16, y: 36}
-        - {x: 15, y: 42}
-        - {x: 38, y: 38}
+        - {x: 21, y: 27}
+        - {x: 66, y: 56}
+        - {x: 66, y: 110}
+        - {x: 23, y: 181}
     - name: SpriteSheetPulando_7
       rect:
         serializedVersion: 2
-        x: 713
-        y: 449
-        width: 81
-        height: 102
+        x: 191
+        y: 840
+        width: 140
+        height: 177
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 33.5, y: 47}
-        - {x: 40.5, y: 48}
-        - {x: 40.5, y: 63}
-        - {x: 9.5, y: 102}
-        - {x: -13.5, y: 102}
-        - {x: -40.5, y: 84}
-        - {x: -40.5, y: 17}
-        - {x: -36.5, y: 0}
-        - {x: 0.5, y: 0}
-        - {x: 22.5, y: 28}
-        - {x: 16.5, y: 41}
-        - {x: 13.5, y: 43}
+      - - {x: -24, y: 177}
+        - {x: -70, y: 124}
+        - {x: -70, y: 67}
+        - {x: -68, y: 63}
+        - {x: -52, y: 67}
+        - {x: -40, y: 10}
+        - {x: -30, y: 0}
+        - {x: -2, y: 0}
+        - {x: 70, y: 84}
+        - {x: 70, y: 124}
+        - {x: 32, y: 177}
     - name: SpriteSheetPulando_8
       rect:
         serializedVersion: 2
-        x: 822
-        y: 445
-        width: 84
-        height: 100
+        x: 353
+        y: 840
+        width: 145
+        height: 173
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 11, y: 100}
-        - {x: -13, y: 100}
-        - {x: -41, y: 68}
-        - {x: -42, y: 60}
-        - {x: -42, y: 34}
-        - {x: -32, y: 38}
-        - {x: -26, y: 0}
-        - {x: 19, y: 0}
-        - {x: 42, y: 25}
-        - {x: 42, y: 59}
-        - {x: 38, y: 62}
+      - - {x: 65.5, y: 105}
+        - {x: 13.5, y: 173}
+        - {x: -34.5, y: 173}
+        - {x: -72.5, y: 110}
+        - {x: -72.5, y: 60}
+        - {x: -71.5, y: 59}
+        - {x: -61.5, y: 64}
+        - {x: -55.5, y: 72}
+        - {x: -35.5, y: 12}
+        - {x: -28.5, y: 0}
+        - {x: 42.5, y: 0}
+        - {x: 72.5, y: 28}
+        - {x: 72.5, y: 103}
+        - {x: 71.5, y: 104}
     - name: SpriteSheetPulando_9
       rect:
         serializedVersion: 2
-        x: 20
-        y: 303
-        width: 88
-        height: 98
+        x: 520
+        y: 840
+        width: 151
+        height: 168
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 11, y: 98}
-        - {x: -11, y: 98}
-        - {x: -14, y: 97}
-        - {x: -39, y: 68}
-        - {x: -44, y: 63}
-        - {x: -44, y: 0}
-        - {x: 19, y: 0}
-        - {x: 29, y: 7}
-        - {x: 44, y: 24}
-        - {x: 44, y: 58}
-        - {x: 41, y: 61}
+      - - {x: 50.5, y: 168}
+        - {x: -45.5, y: 168}
+        - {x: -75.5, y: 110}
+        - {x: -75.5, y: 60}
+        - {x: -74.5, y: 58}
+        - {x: -60.5, y: 60}
+        - {x: -54.5, y: 83}
+        - {x: -35.5, y: 0}
+        - {x: 0.5, y: 0}
+        - {x: 47.5, y: 12}
+        - {x: 75.5, y: 33}
+        - {x: 75.5, y: 104}
     - name: SpriteSheetPulando_10
       rect:
         serializedVersion: 2
-        x: 140
-        y: 306
-        width: 91
-        height: 95
+        x: 697
+        y: 840
+        width: 157
+        height: 164
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 39.5, y: 47}
-        - {x: 45.5, y: 48}
-        - {x: 45.5, y: 57}
-        - {x: 42.5, y: 60}
-        - {x: 15.5, y: 95}
-        - {x: -12.5, y: 95}
-        - {x: -41.5, y: 66}
-        - {x: -45.5, y: 60}
-        - {x: -45.5, y: 0}
-        - {x: 16.5, y: 0}
-        - {x: 28.5, y: 31}
-        - {x: 16.5, y: 39}
-        - {x: 7.5, y: 41}
+      - - {x: -41.5, y: 164}
+        - {x: -78.5, y: 111}
+        - {x: -78.5, y: 58}
+        - {x: -77.5, y: 57}
+        - {x: -63.5, y: 65}
+        - {x: -62.5, y: 69}
+        - {x: -28.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 78.5, y: 55}
+        - {x: 78.5, y: 108}
+        - {x: 30.5, y: 164}
     - name: SpriteSheetPulando_11
       rect:
         serializedVersion: 2
-        x: 249
-        y: 309
-        width: 93
-        height: 92
+        x: 18
+        y: 620
+        width: 161
+        height: 159
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -22.5, y: 92}
-        - {x: -46.5, y: 66}
-        - {x: -46.5, y: 28}
-        - {x: -38.5, y: 31}
-        - {x: -24.5, y: 0}
-        - {x: 12.5, y: 0}
-        - {x: 31.5, y: 5}
-        - {x: 46.5, y: 23}
-        - {x: 46.5, y: 70}
-        - {x: 13.5, y: 92}
+      - - {x: -29.5, y: 159}
+        - {x: -80.5, y: 132}
+        - {x: -80.5, y: 16}
+        - {x: -61.5, y: 0}
+        - {x: 43.5, y: 0}
+        - {x: 55.5, y: 4}
+        - {x: 80.5, y: 35}
+        - {x: 80.5, y: 110}
+        - {x: 37.5, y: 159}
     - name: SpriteSheetPulando_12
       rect:
         serializedVersion: 2
-        x: 374
-        y: 312
-        width: 95
-        height: 89
+        x: 214
+        y: 625
+        width: 164
+        height: 154
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 16.5, y: 89}
-        - {x: -20.5, y: 89}
-        - {x: -39.5, y: 66}
-        - {x: -47.5, y: 47}
-        - {x: -47.5, y: 32}
-        - {x: -30.5, y: 1}
-        - {x: -29.5, y: 0}
-        - {x: 47.5, y: 0}
-        - {x: 47.5, y: 71}
-        - {x: 45.5, y: 74}
+      - - {x: -29, y: 154}
+        - {x: -82, y: 120}
+        - {x: -82, y: 47}
+        - {x: -56, y: 0}
+        - {x: 82, y: 0}
+        - {x: 82, y: 111}
+        - {x: 45, y: 154}
     - name: SpriteSheetPulando_13
       rect:
         serializedVersion: 2
-        x: 494
-        y: 315
-        width: 97
-        height: 86
+        x: 405
+        y: 631
+        width: 168
+        height: 148
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 48.5, y: 62}
-        - {x: 23.5, y: 86}
-        - {x: -18.5, y: 86}
-        - {x: -48.5, y: 55}
-        - {x: -48.5, y: 30}
-        - {x: -38.5, y: 34}
-        - {x: -12.5, y: 0}
-        - {x: 22.5, y: 0}
-        - {x: 27.5, y: 33}
-        - {x: 47.5, y: 45}
-        - {x: 48.5, y: 46}
+      - - {x: -29, y: 148}
+        - {x: -84, y: 87}
+        - {x: -84, y: 1}
+        - {x: -83, y: 0}
+        - {x: 45, y: 0}
+        - {x: 63, y: 10}
+        - {x: 84, y: 33}
+        - {x: 84, y: 128}
+        - {x: 67, y: 148}
     - name: SpriteSheetPulando_14
       rect:
         serializedVersion: 2
-        x: 616
-        y: 318
-        width: 100
-        height: 83
+        x: 608
+        y: 649
+        width: 171
+        height: 142
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 17, y: 83}
-        - {x: -15, y: 83}
-        - {x: -50, y: 51}
-        - {x: -50, y: 7}
-        - {x: -26, y: 0}
-        - {x: 36, y: 0}
-        - {x: 50, y: 20}
-        - {x: 50, y: 57}
-        - {x: 47, y: 60}
+      - - {x: 85.5, y: 83}
+        - {x: 85.5, y: 114}
+        - {x: 26.5, y: 142}
+        - {x: -28.5, y: 142}
+        - {x: -71.5, y: 107}
+        - {x: -85.5, y: 76}
+        - {x: -85.5, y: 26}
+        - {x: -32.5, y: 0}
+        - {x: 38.5, y: 0}
+        - {x: 38.5, y: 15}
+        - {x: 37.5, y: 36}
+        - {x: 32.5, y: 51}
     - name: SpriteSheetPulando_15
       rect:
         serializedVersion: 2
-        x: 748
-        y: 321
-        width: 101
-        height: 80
+        x: 810
+        y: 654
+        width: 175
+        height: 137
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 42.5, y: 80}
-        - {x: -11.5, y: 80}
-        - {x: -50.5, y: 60}
-        - {x: -50.5, y: 14}
-        - {x: -14.5, y: 0}
-        - {x: 28.5, y: 0}
-        - {x: 44.5, y: 32}
-        - {x: 50.5, y: 45}
-        - {x: 50.5, y: 75}
+      - - {x: -42.5, y: 137}
+        - {x: -74.5, y: 123}
+        - {x: -87.5, y: 84}
+        - {x: -87.5, y: 49}
+        - {x: -67.5, y: 57}
+        - {x: -22.5, y: 0}
+        - {x: 75.5, y: 0}
+        - {x: 87.5, y: 23}
+        - {x: 87.5, y: 97}
+        - {x: 52.5, y: 137}
     - name: SpriteSheetPulando_16
       rect:
         serializedVersion: 2
-        x: 874
-        y: 321
-        width: 100
-        height: 80
+        x: 6
+        y: 437
+        width: 173
+        height: 138
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 42, y: 57}
-        - {x: 18, y: 80}
-        - {x: -16, y: 80}
-        - {x: -50, y: 48}
-        - {x: -50, y: 29}
-        - {x: -44, y: 27}
-        - {x: -35, y: 38}
-        - {x: -17, y: 0}
-        - {x: 31, y: 0}
-        - {x: 50, y: 43}
-        - {x: 50, y: 53}
+      - - {x: 86.5, y: 68}
+        - {x: 86.5, y: 91}
+        - {x: 72.5, y: 115}
+        - {x: 31.5, y: 138}
+        - {x: -31.5, y: 138}
+        - {x: -86.5, y: 83}
+        - {x: -86.5, y: 49}
+        - {x: -71.5, y: 52}
+        - {x: -23.5, y: 0}
+        - {x: 37.5, y: 0}
+        - {x: 41.5, y: 3}
+        - {x: 38.5, y: 38}
+        - {x: 31.5, y: 43}
     - name: SpriteSheetPulando_17
       rect:
         serializedVersion: 2
-        x: 14
-        y: 179
-        width: 99
-        height: 81
+        x: 222
+        y: 435
+        width: 171
+        height: 141
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -30.5, y: 81}
-        - {x: -49.5, y: 75}
-        - {x: -49.5, y: 28}
-        - {x: -43.5, y: 29}
-        - {x: -38.5, y: 34}
-        - {x: -15.5, y: 0}
-        - {x: 40.5, y: 0}
-        - {x: 49.5, y: 12}
-        - {x: 49.5, y: 56}
-        - {x: 28.5, y: 81}
+      - - {x: -65.5, y: 101}
+        - {x: -85.5, y: 66}
+        - {x: -85.5, y: 44}
+        - {x: -71.5, y: 0}
+        - {x: 68.5, y: 0}
+        - {x: 85.5, y: 11}
+        - {x: 85.5, y: 108}
+        - {x: 31.5, y: 136}
+        - {x: 19.5, y: 141}
+        - {x: -7.5, y: 141}
+        - {x: -13.5, y: 134}
     - name: SpriteSheetPulando_18
       rect:
         serializedVersion: 2
-        x: 155
-        y: 181
-        width: 98
-        height: 82
+        x: 423
+        y: 443
+        width: 168
+        height: 143
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -12, y: 82}
-        - {x: -49, y: 63}
-        - {x: -49, y: 14}
-        - {x: -27, y: 0}
-        - {x: 24, y: 0}
-        - {x: 49, y: 17}
-        - {x: 49, y: 75}
-        - {x: 45, y: 82}
+      - - {x: 54, y: 143}
+        - {x: -21, y: 143}
+        - {x: -79, y: 111}
+        - {x: -84, y: 75}
+        - {x: -84, y: 52}
+        - {x: -83, y: 51}
+        - {x: -73, y: 48}
+        - {x: -30, y: 0}
+        - {x: 52, y: 0}
+        - {x: 56, y: 1}
+        - {x: 84, y: 47}
+        - {x: 84, y: 115}
     - name: SpriteSheetPulando_19
       rect:
         serializedVersion: 2
-        x: 278
-        y: 179
-        width: 96
-        height: 85
+        x: 613
+        y: 443
+        width: 166
+        height: 148
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -20, y: 85}
-        - {x: -48, y: 68}
-        - {x: -48, y: 30}
-        - {x: -42, y: 30}
-        - {x: -38, y: 33}
-        - {x: -17, y: 0}
-        - {x: 29, y: 0}
-        - {x: 48, y: 17}
-        - {x: 48, y: 65}
-        - {x: 38, y: 85}
+      - - {x: 32, y: 148}
+        - {x: -13, y: 148}
+        - {x: -15, y: 147}
+        - {x: -66, y: 102}
+        - {x: -83, y: 75}
+        - {x: -83, y: 50}
+        - {x: -70, y: 50}
+        - {x: -23, y: 0}
+        - {x: 57, y: 0}
+        - {x: 83, y: 51}
+        - {x: 83, y: 81}
+        - {x: 81, y: 86}
     - name: SpriteSheetPulando_20
       rect:
         serializedVersion: 2
-        x: 405
-        y: 181
-        width: 94
-        height: 89
+        x: 823
+        y: 447
+        width: 162
+        height: 153
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -47, y: 5}
-        - {x: -44, y: 0}
-        - {x: 47, y: 0}
-        - {x: 47, y: 63}
-        - {x: 15, y: 89}
-        - {x: -14, y: 89}
-        - {x: -47, y: 49}
+      - - {x: -27, y: 153}
+        - {x: -81, y: 89}
+        - {x: -81, y: 50}
+        - {x: -38, y: 0}
+        - {x: 77, y: 0}
+        - {x: 81, y: 21}
+        - {x: 81, y: 106}
+        - {x: 30, y: 153}
     - name: SpriteSheetPulando_21
       rect:
         serializedVersion: 2
-        x: 530
-        y: 181
-        width: 91
-        height: 92
+        x: 22
+        y: 246
+        width: 157
+        height: 158
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -6.5, y: 92}
-        - {x: -9.5, y: 91}
-        - {x: -35.5, y: 63}
-        - {x: -45.5, y: 44}
-        - {x: -45.5, y: 30}
-        - {x: -26.5, y: 0}
-        - {x: 45.5, y: 0}
-        - {x: 45.5, y: 75}
-        - {x: 17.5, y: 92}
+      - - {x: -17.5, y: 158}
+        - {x: -78.5, y: 124}
+        - {x: -78.5, y: 10}
+        - {x: -62.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 35.5, y: 3}
+        - {x: 78.5, y: 62}
+        - {x: 78.5, y: 86}
+        - {x: 39.5, y: 158}
     - name: SpriteSheetPulando_22
       rect:
         serializedVersion: 2
-        x: 644
-        y: 181
-        width: 89
-        height: 95
+        x: 219
+        y: 246
+        width: 153
+        height: 163
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10.5, y: 95}
-        - {x: -44.5, y: 52}
-        - {x: -44.5, y: 32}
-        - {x: -34.5, y: 36}
-        - {x: -33.5, y: 40}
-        - {x: -15.5, y: 8}
-        - {x: -9.5, y: 0}
-        - {x: 44.5, y: 0}
-        - {x: 44.5, y: 81}
-        - {x: 34.5, y: 95}
+      - - {x: -7.5, y: 163}
+        - {x: -60.5, y: 118}
+        - {x: -76.5, y: 80}
+        - {x: -76.5, y: 57}
+        - {x: -66.5, y: 57}
+        - {x: -21.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 48.5, y: 15}
+        - {x: 76.5, y: 41}
+        - {x: 76.5, y: 95}
+        - {x: 48.5, y: 163}
     - name: SpriteSheetPulando_23
       rect:
         serializedVersion: 2
-        x: 764
-        y: 181
-        width: 86
-        height: 97
+        x: 412
+        y: 246
+        width: 148
+        height: 168
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 15, y: 97}
-        - {x: -7, y: 97}
-        - {x: -43, y: 72}
-        - {x: -43, y: 10}
-        - {x: -36, y: 0}
-        - {x: 13, y: 0}
-        - {x: 32, y: 9}
-        - {x: 43, y: 31}
-        - {x: 43, y: 61}
-        - {x: 19, y: 94}
+      - - {x: -19, y: 168}
+        - {x: -74, y: 135}
+        - {x: -74, y: 0}
+        - {x: 57, y: 0}
+        - {x: 74, y: 41}
+        - {x: 74, y: 116}
+        - {x: 43, y: 168}
     - name: SpriteSheetPulando_24
       rect:
         serializedVersion: 2
-        x: 883
-        y: 181
-        width: 82
-        height: 99
+        x: 591
+        y: 246
+        width: 141
+        height: 171
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 19, y: 0}
-        - {x: 41, y: 21}
-        - {x: 41, y: 64}
-        - {x: 28, y: 99}
-        - {x: -8, y: 99}
-        - {x: -41, y: 72}
-        - {x: -41, y: 0}
+      - - {x: -10.5, y: 171}
+        - {x: -17.5, y: 165}
+        - {x: -70.5, y: 92}
+        - {x: -70.5, y: 60}
+        - {x: -58.5, y: 62}
+        - {x: 4.5, y: 40}
+        - {x: 6.5, y: 40}
+        - {x: -16.5, y: 41}
+        - {x: -21.5, y: 39}
+        - {x: -23.5, y: 24}
+        - {x: -13.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 49.5, y: 22}
+        - {x: 70.5, y: 40}
+        - {x: 70.5, y: 103}
+        - {x: 39.5, y: 171}
     - name: SpriteSheetPulando_25
       rect:
         serializedVersion: 2
-        x: 20
-        y: 42
-        width: 78
-        height: 102
+        x: 772
+        y: 246
+        width: 135
+        height: 176
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 31, y: 35}
-        - {x: 39, y: 33}
-        - {x: 39, y: 47}
-        - {x: 22, y: 86}
-        - {x: 14, y: 102}
-        - {x: -7, y: 102}
-        - {x: -36, y: 72}
-        - {x: -39, y: 58}
-        - {x: -39, y: 34}
-        - {x: -32, y: 36}
-        - {x: -17, y: 0}
-        - {x: 9, y: 0}
-        - {x: 22, y: 17}
-        - {x: 18, y: 30}
-        - {x: 12, y: 40}
+      - - {x: -6.5, y: 176}
+        - {x: -13.5, y: 172}
+        - {x: -67.5, y: 93}
+        - {x: -67.5, y: 57}
+        - {x: -45.5, y: 0}
+        - {x: 26.5, y: 0}
+        - {x: 65.5, y: 18}
+        - {x: 67.5, y: 23}
+        - {x: 67.5, y: 116}
+        - {x: 27.5, y: 176}
     - name: SpriteSheetPulando_26
       rect:
         serializedVersion: 2
-        x: 143
-        y: 42
-        width: 74
-        height: 104
+        x: 18
+        y: 52
+        width: 128
+        height: 179
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 17, y: 104}
-        - {x: -7, y: 104}
-        - {x: -33, y: 72}
-        - {x: -37, y: 56}
-        - {x: -37, y: 35}
-        - {x: -27, y: 38}
-        - {x: -12, y: 1}
-        - {x: -10, y: 0}
-        - {x: 15, y: 0}
-        - {x: 37, y: 13}
-        - {x: 37, y: 56}
-        - {x: 25, y: 89}
+      - - {x: -28, y: 179}
+        - {x: -64, y: 120}
+        - {x: -64, y: 3}
+        - {x: -57, y: 0}
+        - {x: 45, y: 0}
+        - {x: 64, y: 17}
+        - {x: 64, y: 114}
+        - {x: 49, y: 179}
     - name: SpriteSheetPulando_27
       rect:
         serializedVersion: 2
-        x: 273
-        y: 42
-        width: 69
-        height: 106
+        x: 179
+        y: 49
+        width: 120
+        height: 182
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 34.5, y: 31}
-        - {x: 34.5, y: 65}
-        - {x: 17.5, y: 106}
-        - {x: -18.5, y: 106}
-        - {x: -34.5, y: 62}
-        - {x: -34.5, y: 14}
-        - {x: -16.5, y: 0}
-        - {x: 9.5, y: 0}
-        - {x: 21.5, y: 19}
-        - {x: 19.5, y: 30}
-        - {x: 33.5, y: 29}
+      - - {x: -9, y: 182}
+        - {x: -52, y: 123}
+        - {x: -60, y: 99}
+        - {x: -60, y: 24}
+        - {x: -25, y: 0}
+        - {x: 60, y: 0}
+        - {x: 60, y: 128}
+        - {x: 41, y: 182}
     - name: SpriteSheetPulando_28
       rect:
         serializedVersion: 2
-        x: 386
-        y: 42
-        width: 65
-        height: 107
+        x: 338
+        y: 46
+        width: 113
+        height: 185
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 24.5, y: 106}
-        - {x: 17.5, y: 107}
-        - {x: -2.5, y: 107}
-        - {x: -32.5, y: 65}
-        - {x: -32.5, y: 27}
-        - {x: -11.5, y: 0}
-        - {x: 10.5, y: 0}
-        - {x: 31.5, y: 31}
-        - {x: 32.5, y: 33}
-        - {x: 32.5, y: 57}
+      - - {x: -5.5, y: 185}
+        - {x: -56.5, y: 102}
+        - {x: -56.5, y: 64}
+        - {x: -55.5, y: 63}
+        - {x: -34.5, y: 0}
+        - {x: 22.5, y: 0}
+        - {x: 56.5, y: 46}
+        - {x: 56.5, y: 95}
+        - {x: 34.5, y: 185}
     - name: SpriteSheetPulando_29
       rect:
         serializedVersion: 2
-        x: 482
-        y: 42
-        width: 61
-        height: 109
+        x: 521
+        y: 45
+        width: 105
+        height: 187
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 24.5, y: 33}
-        - {x: 30.5, y: 31}
-        - {x: 30.5, y: 79}
-        - {x: 21.5, y: 109}
-        - {x: -3.5, y: 109}
-        - {x: -7.5, y: 107}
-        - {x: -30.5, y: 57}
-        - {x: -30.5, y: 37}
-        - {x: -19.5, y: 39}
-        - {x: -8.5, y: 0}
-        - {x: 8.5, y: 0}
-        - {x: 21.5, y: 22}
-        - {x: 17.5, y: 42}
-        - {x: 19.5, y: 39}
+      - - {x: 29.5, y: 187}
+        - {x: -9.5, y: 187}
+        - {x: -17.5, y: 182}
+        - {x: -52.5, y: 100}
+        - {x: -52.5, y: 23}
+        - {x: -46.5, y: 19}
+        - {x: -12.5, y: 28}
+        - {x: -9.5, y: 29}
+        - {x: -14.5, y: 15}
+        - {x: -16.5, y: 0}
+        - {x: 45.5, y: 0}
+        - {x: 52.5, y: 9}
+        - {x: 52.5, y: 137}
+        - {x: 35.5, y: 186}
     outline: []
   spritePackingTag: 
   userData: 

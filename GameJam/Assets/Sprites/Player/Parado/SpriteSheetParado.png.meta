@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 59740e0c71e14a94faf76521d0773e28
-timeCreated: 1461083305
+guid: e10b90f10ec9017419d89857be708c42
+timeCreated: 1461118983
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -47,7 +47,7 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 1024
+  maxTextureSize: 2048
   textureSettings:
     filterMode: -1
     aniso: 16
@@ -73,350 +73,430 @@ TextureImporter:
     - name: SpriteSheetParado_0
       rect:
         serializedVersion: 2
-        x: 42
-        y: 419
-        width: 44
-        height: 124
+        x: 46
+        y: 565
+        width: 75
+        height: 213
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 22, y: 92}
-        - {x: 17, y: 120}
-        - {x: 12, y: 124}
-        - {x: -8, y: 124}
-        - {x: -22, y: 92}
-        - {x: -22, y: 0}
-        - {x: -10, y: 0}
-        - {x: -6, y: 17}
-        - {x: 7, y: 0}
-        - {x: 22, y: 0}
+      - - {x: 37.5, y: 0}
+        - {x: 37.5, y: 189}
+        - {x: 24.5, y: 213}
+        - {x: -14.5, y: 213}
+        - {x: -37.5, y: 184}
+        - {x: -37.5, y: 0}
+        - {x: -20.5, y: 0}
+        - {x: -18.5, y: 2}
+        - {x: -10.5, y: 36}
+        - {x: 10.5, y: 0}
     - name: SpriteSheetParado_1
       rect:
         serializedVersion: 2
-        x: 170
-        y: 419
-        width: 43
-        height: 124
+        x: 190
+        y: 565
+        width: 75
+        height: 213
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 21.5, y: 99}
-        - {x: 16.5, y: 124}
-        - {x: -8.5, y: 124}
-        - {x: -21.5, y: 100}
-        - {x: -21.5, y: 0}
-        - {x: -10.5, y: 0}
-        - {x: -9.5, y: 1}
-        - {x: -6.5, y: 0}
-        - {x: 21.5, y: 0}
+      - - {x: 37.5, y: 0}
+        - {x: 37.5, y: 203}
+        - {x: 34.5, y: 213}
+        - {x: -9.5, y: 213}
+        - {x: -14.5, y: 211}
+        - {x: -37.5, y: 152}
+        - {x: -37.5, y: 0}
+        - {x: -20.5, y: 0}
+        - {x: -18.5, y: 2}
+        - {x: -10.5, y: 36}
+        - {x: 10.5, y: 0}
     - name: SpriteSheetParado_2
       rect:
         serializedVersion: 2
-        x: 299
-        y: 419
-        width: 43
-        height: 124
+        x: 339
+        y: 565
+        width: 75
+        height: 213
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 15.5, y: 124}
-        - {x: -7.5, y: 124}
-        - {x: -21.5, y: 96}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 87}
-        - {x: 20.5, y: 97}
+      - - {x: 37.5, y: 0}
+        - {x: 37.5, y: 140}
+        - {x: 29.5, y: 202}
+        - {x: 19.5, y: 213}
+        - {x: -13.5, y: 213}
+        - {x: -37.5, y: 157}
+        - {x: -37.5, y: 0}
+        - {x: -20.5, y: 0}
+        - {x: -18.5, y: 2}
+        - {x: -10.5, y: 36}
+        - {x: 10.5, y: 0}
     - name: SpriteSheetParado_3
       rect:
         serializedVersion: 2
-        x: 426
-        y: 419
-        width: 43
-        height: 124
+        x: 452
+        y: 564
+        width: 74
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10.5, y: 124}
-        - {x: -21.5, y: 98}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 118}
-        - {x: 18.5, y: 124}
+      - - {x: 37, y: 0}
+        - {x: 37, y: 119}
+        - {x: 28, y: 164}
+        - {x: 18, y: 172}
+        - {x: 27, y: 182}
+        - {x: 30, y: 200}
+        - {x: 17, y: 214}
+        - {x: -16, y: 214}
+        - {x: -37, y: 185}
+        - {x: -37, y: 0}
+        - {x: -20, y: 0}
+        - {x: -18, y: 2}
+        - {x: -10, y: 36}
+        - {x: 11, y: 0}
     - name: SpriteSheetParado_4
       rect:
         serializedVersion: 2
-        x: 553
-        y: 419
-        width: 43
-        height: 124
+        x: 595
+        y: 564
+        width: 74
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -8.5, y: 124}
-        - {x: -21.5, y: 95}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 124}
+      - - {x: 37, y: 0}
+        - {x: 37, y: 209}
+        - {x: 21, y: 214}
+        - {x: -21, y: 214}
+        - {x: -37, y: 182}
+        - {x: -37, y: 0}
+        - {x: -20, y: 0}
+        - {x: -18, y: 2}
+        - {x: -10, y: 36}
+        - {x: 11, y: 0}
     - name: SpriteSheetParado_5
       rect:
         serializedVersion: 2
-        x: 683
-        y: 419
-        width: 43
-        height: 124
+        x: 722
+        y: 564
+        width: 74
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -9.5, y: 124}
-        - {x: -21.5, y: 93}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 123}
-        - {x: 19.5, y: 124}
+      - - {x: 37, y: 0}
+        - {x: 37, y: 146}
+        - {x: 34, y: 204}
+        - {x: 28, y: 214}
+        - {x: -21, y: 214}
+        - {x: -37, y: 148}
+        - {x: -37, y: 0}
+        - {x: -20, y: 0}
+        - {x: -18, y: 2}
+        - {x: -10, y: 36}
+        - {x: 11, y: 0}
     - name: SpriteSheetParado_6
       rect:
         serializedVersion: 2
-        x: 810
-        y: 419
-        width: 43
-        height: 124
+        x: 870
+        y: 565
+        width: 74
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 12.5, y: 124}
-        - {x: -7.5, y: 124}
-        - {x: -21.5, y: 102}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 86}
-        - {x: 20.5, y: 116}
+      - - {x: 37, y: 0}
+        - {x: 37, y: 142}
+        - {x: 29, y: 213}
+        - {x: 22, y: 214}
+        - {x: -11, y: 214}
+        - {x: -18, y: 201}
+        - {x: -37, y: 155}
+        - {x: -37, y: 0}
+        - {x: -20, y: 0}
+        - {x: -18, y: 2}
+        - {x: -10, y: 36}
+        - {x: 11, y: 0}
     - name: SpriteSheetParado_7
       rect:
         serializedVersion: 2
-        x: 937
-        y: 419
-        width: 43
-        height: 124
+        x: 46
+        y: 295
+        width: 73
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -20.5, y: 124}
-        - {x: -21.5, y: 120}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 120}
-        - {x: 19.5, y: 124}
+      - - {x: 36.5, y: 43}
+        - {x: 36.5, y: 139}
+        - {x: 26.5, y: 201}
+        - {x: 23.5, y: 208}
+        - {x: 17.5, y: 214}
+        - {x: -15.5, y: 214}
+        - {x: -36.5, y: 158}
+        - {x: -36.5, y: 0}
+        - {x: 36.5, y: 0}
+        - {x: 36.5, y: 11}
+        - {x: 33.5, y: 14}
     - name: SpriteSheetParado_8
       rect:
         serializedVersion: 2
-        x: 42
-        y: 270
-        width: 43
-        height: 124
+        x: 190
+        y: 295
+        width: 74
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -11.5, y: 124}
-        - {x: -21.5, y: 108}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 124}
+      - - {x: 24, y: 214}
+        - {x: -10, y: 214}
+        - {x: -18, y: 211}
+        - {x: -37, y: 162}
+        - {x: -37, y: 0}
+        - {x: 37, y: 0}
+        - {x: 37, y: 126}
+        - {x: 30, y: 208}
     - name: SpriteSheetParado_9
       rect:
         serializedVersion: 2
-        x: 148
-        y: 270
-        width: 43
-        height: 124
+        x: 360
+        y: 295
+        width: 74
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 12.5, y: 124}
-        - {x: -16.5, y: 124}
-        - {x: -21.5, y: 96}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 86}
-        - {x: 18.5, y: 122}
+      - - {x: -37, y: 0}
+        - {x: 37, y: 0}
+        - {x: 37, y: 204}
+        - {x: 36, y: 214}
+        - {x: -13, y: 214}
+        - {x: -37, y: 164}
     - name: SpriteSheetParado_10
       rect:
         serializedVersion: 2
-        x: 277
-        y: 270
-        width: 43
-        height: 124
+        x: 512
+        y: 281
+        width: 74
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -21.5, y: 124}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 121}
-        - {x: 15.5, y: 124}
+      - - {x: 37, y: 180}
+        - {x: 25, y: 214}
+        - {x: -14, y: 214}
+        - {x: -37, y: 155}
+        - {x: -37, y: 0}
+        - {x: -18, y: 0}
+        - {x: -16, y: 1}
+        - {x: -13, y: 0}
+        - {x: 37, y: 0}
     - name: SpriteSheetParado_11
       rect:
         serializedVersion: 2
-        x: 426
-        y: 270
-        width: 43
-        height: 124
+        x: 682
+        y: 281
+        width: 74
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 12.5, y: 124}
-        - {x: -16.5, y: 124}
-        - {x: -21.5, y: 96}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 86}
-        - {x: 18.5, y: 122}
+      - - {x: -37, y: 0}
+        - {x: 37, y: 0}
+        - {x: 37, y: 204}
+        - {x: 36, y: 214}
+        - {x: -13, y: 214}
+        - {x: -37, y: 164}
     - name: SpriteSheetParado_12
       rect:
         serializedVersion: 2
-        x: 553
-        y: 270
-        width: 43
-        height: 124
+        x: 869
+        y: 281
+        width: 74
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -11.5, y: 124}
-        - {x: -21.5, y: 108}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 124}
+      - - {x: 24, y: 214}
+        - {x: -10, y: 214}
+        - {x: -18, y: 211}
+        - {x: -37, y: 162}
+        - {x: -37, y: 0}
+        - {x: 37, y: 0}
+        - {x: 37, y: 126}
+        - {x: 30, y: 208}
     - name: SpriteSheetParado_13
       rect:
         serializedVersion: 2
-        x: 680
-        y: 270
-        width: 43
-        height: 124
+        x: 46
+        y: 44
+        width: 73
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -20.5, y: 124}
-        - {x: -21.5, y: 120}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 120}
-        - {x: 19.5, y: 124}
+      - - {x: 36.5, y: 43}
+        - {x: 36.5, y: 139}
+        - {x: 26.5, y: 201}
+        - {x: 23.5, y: 208}
+        - {x: 17.5, y: 214}
+        - {x: -15.5, y: 214}
+        - {x: -36.5, y: 158}
+        - {x: -36.5, y: 0}
+        - {x: 36.5, y: 0}
+        - {x: 36.5, y: 11}
+        - {x: 33.5, y: 14}
     - name: SpriteSheetParado_14
       rect:
         serializedVersion: 2
-        x: 807
-        y: 270
-        width: 43
-        height: 124
+        x: 211
+        y: 44
+        width: 74
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 12.5, y: 124}
-        - {x: -7.5, y: 124}
-        - {x: -21.5, y: 102}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 86}
-        - {x: 20.5, y: 116}
+      - - {x: 37, y: 0}
+        - {x: 37, y: 142}
+        - {x: 29, y: 213}
+        - {x: 22, y: 214}
+        - {x: -11, y: 214}
+        - {x: -18, y: 201}
+        - {x: -37, y: 155}
+        - {x: -37, y: 0}
+        - {x: -20, y: 0}
+        - {x: -18, y: 2}
+        - {x: -10, y: 36}
+        - {x: 11, y: 0}
     - name: SpriteSheetParado_15
       rect:
         serializedVersion: 2
-        x: 916
-        y: 270
-        width: 43
-        height: 124
+        x: 360
+        y: 44
+        width: 74
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -9.5, y: 124}
-        - {x: -21.5, y: 93}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 123}
-        - {x: 19.5, y: 124}
+      - - {x: 37, y: 0}
+        - {x: 37, y: 146}
+        - {x: 34, y: 204}
+        - {x: 28, y: 214}
+        - {x: -21, y: 214}
+        - {x: -37, y: 148}
+        - {x: -37, y: 0}
+        - {x: -20, y: 0}
+        - {x: -18, y: 2}
+        - {x: -10, y: 36}
+        - {x: 11, y: 0}
     - name: SpriteSheetParado_16
       rect:
         serializedVersion: 2
-        x: 42
-        y: 66
-        width: 43
-        height: 124
+        x: 489
+        y: 44
+        width: 74
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -8.5, y: 124}
-        - {x: -21.5, y: 95}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 124}
+      - - {x: 37, y: 0}
+        - {x: 37, y: 209}
+        - {x: 21, y: 214}
+        - {x: -21, y: 214}
+        - {x: -37, y: 182}
+        - {x: -37, y: 0}
+        - {x: -20, y: 0}
+        - {x: -18, y: 2}
+        - {x: -10, y: 36}
+        - {x: 11, y: 0}
     - name: SpriteSheetParado_17
       rect:
         serializedVersion: 2
-        x: 148
-        y: 66
-        width: 43
-        height: 124
+        x: 645
+        y: 44
+        width: 74
+        height: 214
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10.5, y: 124}
-        - {x: -21.5, y: 98}
-        - {x: -21.5, y: 0}
-        - {x: 21.5, y: 0}
-        - {x: 21.5, y: 118}
-        - {x: 18.5, y: 124}
+      - - {x: 37, y: 0}
+        - {x: 37, y: 119}
+        - {x: 28, y: 164}
+        - {x: 18, y: 172}
+        - {x: 27, y: 182}
+        - {x: 30, y: 200}
+        - {x: 17, y: 214}
+        - {x: -16, y: 214}
+        - {x: -37, y: 185}
+        - {x: -37, y: 0}
+        - {x: -20, y: 0}
+        - {x: -18, y: 2}
+        - {x: -10, y: 36}
+        - {x: 11, y: 0}
     - name: SpriteSheetParado_18
       rect:
         serializedVersion: 2
-        x: 255
-        y: 66
-        width: 44
-        height: 124
+        x: 774
+        y: 45
+        width: 75
+        height: 213
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -11, y: 124}
-        - {x: -21, y: 121}
-        - {x: -22, y: 116}
-        - {x: -22, y: 0}
-        - {x: 22, y: 0}
-        - {x: 22, y: 116}
-        - {x: 17, y: 124}
+      - - {x: 37.5, y: 0}
+        - {x: 37.5, y: 140}
+        - {x: 29.5, y: 202}
+        - {x: 19.5, y: 213}
+        - {x: -13.5, y: 213}
+        - {x: -37.5, y: 157}
+        - {x: -37.5, y: 0}
+        - {x: -20.5, y: 0}
+        - {x: -18.5, y: 2}
+        - {x: -10.5, y: 36}
+        - {x: 10.5, y: 0}
     - name: SpriteSheetParado_19
       rect:
         serializedVersion: 2
-        x: 382
-        y: 66
-        width: 44
-        height: 124
+        x: 924
+        y: 45
+        width: 75
+        height: 213
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -9, y: 124}
-        - {x: -22, y: 104}
-        - {x: -22, y: 0}
-        - {x: 22, y: 0}
-        - {x: 22, y: 124}
+      - - {x: 37.5, y: 0}
+        - {x: 37.5, y: 203}
+        - {x: 34.5, y: 213}
+        - {x: -9.5, y: 213}
+        - {x: -14.5, y: 211}
+        - {x: -37.5, y: 152}
+        - {x: -37.5, y: 0}
+        - {x: -20.5, y: 0}
+        - {x: -18.5, y: 2}
+        - {x: -10.5, y: 36}
+        - {x: 10.5, y: 0}
     outline: []
   spritePackingTag: 
   userData: 
